@@ -12,4 +12,4 @@ Improving the dataset with more hard negatives and greater scene variation would
 
 ## Screenshot
 
-![Object Detection](ObjectDetection.png)
+![Object Detection Screenshot](ObjektDetektion.PNG)
