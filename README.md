@@ -9,3 +9,7 @@ Because the dataset contains very few hard negative examples (images without lab
 This results in false positives where unrelated objects may still be classified with high confidence scores.
 
 Improving the dataset with more hard negatives and greater scene variation would likely improve the model's ability to generalize.
+
+## Screenshot
+
+![Object Detection](ObjectDetection.png)
